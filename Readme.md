@@ -6,15 +6,15 @@ You are the future! Over the next six months we will unpack a number of issues t
 
 ## Schedule
 
-| | |
 | Month | Objective |
+| —————— | ————— |
 | Sep 2015 | Welcome Bootcamp |
 | Oct 2015 | Understanding the Community Board Process |
 | Nov 2015 | Evaluating needs |
 | Dec 2015 | Building a scafolding |
 | Jan 2016 | Outlining a solution |
 | Feb 2016 | Learning to present and School of Data Summit |
-| | |
+
 
 ## Fellows
 
