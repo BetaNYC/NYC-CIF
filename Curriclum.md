@@ -3,10 +3,10 @@
 ### Bootcamp
  * Intro to the NYC Civic Innovation Fellows Program
   - What is a Community Board
-  - Your opertunity
+  - Your opportunity
  * Meet your fellow fellows
  * Introduction to New York City and its history
-  - New Amsterdam and its impact on the US Constitiution
+  - New Amsterdam and its impact on the US Constitution
  * Introduction to NYC Community Boards
  * Project tools and technology 
   - What is Open Source
@@ -15,7 +15,8 @@
   - [Agile workflow](http://www.allaboutagile.com/what-is-agile-10-key-principles/)
  * Project Journaling
   - [The Lean Start up method](http://theleanstartup.com/principles)
-  - Keeping a record of your experance 
+  - Keeping a record of your experience 
+  - Digital journaling
  * Inclusive Development 
   - Empathy & Observation
   - Asking the right questions
@@ -26,11 +27,11 @@
  * Tools and Data
   - Other NYC.gov mapping tools
   - [DCP's Community Planning Resources](http://www.slideshare.net/GaleABrewerMBP/mn-boro-board-presentation2014-1112updated?ref=http://manhattanbp.nyc.gov/html/community-boards/cb-member-resources.shtml)
-  - Cenus Data
+  - Census Data
   - Introduction to [CartoDB 101](http://cartodb.com)
  * Data Dentistry
   - Open Refine
-  - CartoDB 102
+  - CartoDB 102 ([CartoDB Academy](http://academy.cartodb.com))
  * Project workday
   - Day dedicated to understanding data, making maps, etc
  * Public Speaking & data storytelling
@@ -42,7 +43,7 @@
  * Observing the service delivery 
 
 ### Evaluating needs
- * A detailed converstation on land use data
+ * A detailed conversation on land use data
 
 ### Building a scaffolding
 
@@ -50,3 +51,5 @@
  * Public presentation
 
 ### Learning to present and School of Data Summit
+ * Workshop on public presentations
+ * Organizing your thoughts and presenting at Metropolitan School of Data Summit
