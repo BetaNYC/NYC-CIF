@@ -45,9 +45,9 @@
 ### Evaluating needs
  * A detailed conversation on land use data
 
-### Building a scaffolding
+### Prototyping
 
-### Outlining a solution
+### User testing
  * Public presentation
 
 ### Learning to present and School of Data Summit
