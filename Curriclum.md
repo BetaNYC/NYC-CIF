@@ -2,13 +2,20 @@
 
 ### Bootcamp
  * Intro to the NYC Civic Innovation Fellows Program
+  - What is a Community Board
+  - Your opertunity
  * Meet your fellow fellows
  * Introduction to New York City and its history
+  - New Amsterdam and its impact on the US Constitiution
  * Introduction to NYC Community Boards
- * Agile workflow and GitHub Project Management
+ * Project tools and technology 
+  - What is Open Source
+  - What is Civic Hacking
+  - Getting started with GitHub
   - [Agile workflow](http://www.allaboutagile.com/what-is-agile-10-key-principles/)
-  - [The Lean Start up method](http://theleanstartup.com/principles)
  * Project Journaling
+  - [The Lean Start up method](http://theleanstartup.com/principles)
+  - Keeping a record of your experance 
  * Inclusive Development 
   - Empathy & Observation
   - Asking the right questions
@@ -36,10 +43,8 @@
 
 ### Evaluating needs
  * A detailed converstation on land use data
- * 
 
 ### Building a scaffolding
- * 
 
 ### Outlining a solution
  * Public presentation
