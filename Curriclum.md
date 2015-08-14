@@ -1,4 +1,4 @@
-## New York City Civic Innovation Fellows 2015 Curriculum 
+# New York City Civic Innovation Fellows 2015 Curriculum 
 
 ### Bootcamp
  * Intro to the NYC Civic Innovation Fellows Program
