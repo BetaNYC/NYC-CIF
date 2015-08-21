@@ -5,7 +5,7 @@ Fill out this form
 
 Create accounts:
  * CartoDB - www.cartodb.com/signup?plan=academy
- * GitHub
- * Socrata
- * Discourse 
- * 
+ * GitHub - www.github.com
+ * Socrata - nyc.gov/data
+ * Discourse - talk.beta.nyc
+ * Google Account - 
