@@ -1,22 +1,40 @@
 # New York City Civic Innovation Fellows 2015 Curriculum 
 
-### Bootcamp
+## Bootcamp
+Note - All content is located in the ./lessons/ folder. 
+
+### Classes
+
+* Week 1 *
+
  * Intro to the NYC Civic Innovation Fellows Program
-  - What is a Community Board
-  - Your opportunity
+  - 
+  - Expectations 
+ * Intro to project journaling 
+  - [The Lean Start up method](http://theleanstartup.com/principles)
+  - Keeping a record of your experience 
+  - Digital journaling
  * Meet your fellow fellows
- * Introduction to New York City and its history
-  - New Amsterdam and its impact on the US Constitution
- * Introduction to NYC Community Boards
+ * Introduction to New York City and its Community Boards
+ * Introduction to CivicTech / GovTech
+
+* Week 2 *
+
+ * Introduction to NYC Community Boards 
+ * Understanding the Community Boards, their meetings, and their responsibilities.
+ * Understanding the zoning process
+ * Community Board Offices 
+ * Community Board Meetings
+
+
+* Week 3 *
  * Project tools and technology 
   - What is Open Source
   - What is Civic Hacking
   - Getting started with GitHub
   - [Agile workflow](http://www.allaboutagile.com/what-is-agile-10-key-principles/)
- * Project Journaling
-  - [The Lean Start up method](http://theleanstartup.com/principles)
-  - Keeping a record of your experience 
-  - Digital journaling
+
+
  * Inclusive Development 
   - Empathy & Observation
   - Asking the right questions
