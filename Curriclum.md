@@ -5,6 +5,13 @@ Note - All content is located in the ./lessons/ folder.
 
 ### Classes
 
+**Week 0**
+
+ * Before you get here
+  - File: 00-Before-you-get-here.md
+  - Create accounts for the following tools
+
+
 **Week 1, 21 Sept - 25 Sept**
 
  * Intro to the NYC Civic Innovation Fellows Program
@@ -13,8 +20,7 @@ Note - All content is located in the ./lessons/ folder.
   - Schedule
  * Intro to project journaling 
   - [The Lean Start up method](http://theleanstartup.com/principles)
-  - Keeping a record of your experience 
-  - Digital journaling
+  - Digital journaling & Keeping a record of your experience 
  * Meet your fellow fellows
  * Introduction to New York City and its Community Boards
  * Introduction to CivicTech / GovTech
@@ -36,8 +42,7 @@ Note - All content is located in the ./lessons/ folder.
   - What is Open Source and Civic Hacking
   - Getting started with GitHub
   - [Agile workflow](http://www.allaboutagile.com/what-is-agile-10-key-principles/)
-
- * Inclusive Development 
+* Inclusive Development 
   - Empathy & Observation
   - Asking the right questions
   - Writing user stories 
