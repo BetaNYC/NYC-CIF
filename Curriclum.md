@@ -5,7 +5,7 @@ Note - All content is located in the ./lessons/ folder.
 
 ### Classes
 
-*Week 1, 21 Sept - 25 Sept*
+**Week 1, 21 Sept - 25 Sept**
 
  * Intro to the NYC Civic Innovation Fellows Program
   - Objectives
@@ -20,7 +20,7 @@ Note - All content is located in the ./lessons/ folder.
  * Introduction to CivicTech / GovTech
 
 
-*Week 2, 28 Sept - 2 Oct*
+**Week 2, 28 Sept - 2 Oct**
 
  * Introduction to NYC Community Boards 
  * Understanding the Community Boards, their meetings, and their responsibilities.
@@ -29,26 +29,13 @@ Note - All content is located in the ./lessons/ folder.
  * Community Board Meetings
 
 
-*Week 3, 5 Oct - 9 Oct*
-
-* Introduction to NYC’s Open Data > NYC 311 > CartoDB
-* Workshop on mapmaking 
-* Introduction to NYC 311 and NYC’s Open Data portal
-* Tools and Data
-  - Other NYC.gov mapping tools
-  - [DCP’s Community Planning Resources](http://www.slideshare.net/GaleABrewerMBP/mn-boro-board-presentation2014-1112updated?ref=http://manhattanbp.nyc.gov/html/community-boards/cb-member-resources.shtml)
-  - Census Data
-  - Introduction to [CartoDB 101](http://cartodb.com)
-
-
-*Week 4, 12 Oct - 16 Oct*
+**Week 3, 5 Oct - 9 Oct**
 
 * Project tools and technology 
-  - What is Open Source
-  - What is Civic Hacking
+  - What is open government and good government
+  - What is Open Source and Civic Hacking
   - Getting started with GitHub
   - [Agile workflow](http://www.allaboutagile.com/what-is-agile-10-key-principles/)
-
 
  * Inclusive Development 
   - Empathy & Observation
@@ -58,20 +45,46 @@ Note - All content is located in the ./lessons/ folder.
   - Fellowship Field Research
 
 
-*Week 5, 19 Oct - 23 Oct*
+**Week 4, 12 Oct - 16 Oct**
 
- * Data Dentistry
+* Introduction to NYC’s Open Data > NYC 311 > CartoDB
+* Workshop on mapmaking 
+  - Types of maps
+  - Data bias 
+* Introduction to NYC’s Open Data portal and NYC 311
+* Tools and Data
+  - Other NYC.gov mapping tools
+  - [DCP’s Community Planning Resources](http://www.slideshare.net/GaleABrewerMBP/mn-boro-board-presentation2014-1112updated?ref=http://manhattanbp.nyc.gov/html/community-boards/cb-member-resources.shtml)
+  - Census Data
+  - Introduction to [CartoDB 101](http://cartodb.com)
+
+
+
+**Week 5, 19 Oct - 23 Oct**
+
+* Data Dentistry (Scraping > OpenRefine > CartoDB 2.0)
+  - Intro to scraping data 
   - Open Refine
   - CartoDB 102 ([CartoDB Academy](http://academy.cartodb.com))
- * Project workday
+* Project workday
   - Day dedicated to understanding data, making maps, etc
+  - Internal office hours w/ fellows and team
+  - Goal: work on your maps
 
 
-*Week 6, 26 Oct - 30 Oct*
+**Week 6, 26 Oct - 30 Oct**
 
  * Public Speaking & data storytelling
   - How to talk about technology, data, and design
+  - Workshop on public speaking
  * Demo day & rest of fellowship schedule
+  - Presentation of data insights 
+  - Project schedule and expectations
+
+
+
+## ==== Objective for other months ====
+
 
 ### Understanding the Community Board Process
  * NYC 311 Field Trip
