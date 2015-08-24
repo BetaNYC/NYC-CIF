@@ -5,11 +5,10 @@ Note - All content is located in the ./lessons/ folder.
 
 ### Classes
 
-**Week 0**
+**Week 0 - Things to do before you get here**
 
- * Before you get here
-  - File: 00-Before-you-get-here.md
-  - Create accounts for the following tools
+* Github Account 
+* Create accounts
 
 
 **Week 1, 21 Sept - 25 Sept**
