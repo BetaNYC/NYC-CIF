@@ -4,7 +4,8 @@
 
 - - - 
 
-```# year.month.day - last name, first name
+```
+# year.month.day - last name, first name
 
 ## Today’s activities 
 This should be a paragraph on what you have done. Don’t worry about the grammar, but make sure that this paragraph makes sense. Try to hit on the following points.
@@ -28,7 +29,8 @@ This should be a paragraph on what you have done. Don’t worry about the gramma
  * [ticket number - ticket name](url)
 
 ## Media from today
-If you have taken pictures, tweeted, etc., add URLs here or upload photos, documents, etc…```
+If you have taken pictures, tweeted, etc., add URLs here or upload photos, documents, etc…
+```
 
 - - - -
 
