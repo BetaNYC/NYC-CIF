@@ -2,11 +2,10 @@
 
 ## Why you need to journal  
 
-Journaling is an important step in project management. It creates a time and space to reflect on what issues you have addressed; issues that you could address; issues you _should_ address. Consider this time your daily safe space. 
+Journaling is a part of [the Lean Start up method](http://theleanstartup.com/principles) and is an important step in project management. It creates a time and space to reflect on what issues you have addressed; issues that you could address; issues you _should_ address. Consider this time your daily safe space. 
 
 We are asking you to journal because we can not keep track of everyone of your projects and issues. 
 
- 
 
 ## Steps to journaling.
 
@@ -18,14 +17,14 @@ We are asking you to journal because we can not keep track of everyone of your p
  1. Focus: start writing & keep writing 
  1. Write for 30 mins. Feel free to time yourself.
  1. White about things that impacted you.
-    - Events
-    - Articles 
-    - Quotes
-    - Ideas
-    - Goals
-    - Impressions
-    - Moments of Joy
-    - Places you visited
+   - Events
+   - Articles 
+   - Quotes
+   - Ideas
+   - Goals
+   - Impressions
+   - Moments of Joy
+   - Places you visited
  1. Reward yourself
 
 ## How to journal for Civic Innovation Fellows
@@ -36,13 +35,13 @@ Your colleagues will be able to see these topics and engage with you. If you wan
 
 Our platform, [discourse](http://www.discourse.org) / [talk.beta.nyc](https://talk.beta.nyc), uses a lightweight markup language. We encourage you to learn [markdown](https://en.wikipedia.org/wiki/Markdown) as it is the “common language” of github.*
 
-Cheat sheets on Markdown 
+**Cheat sheets on Markdown** 
  * [Super quick](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  * [DaringFireball’s holy grail](http://daringfireball.net/projects/markdown/syntax)
 
 For every day you work, we expect you to take 30 mins and journal about your experience. 
 
-We want to you to engage in the following questions:
+**We want to you to engage in the following questions**:
 
 * What am I learning?
 * What are the greatest risks?
@@ -54,11 +53,6 @@ We want to you to engage in the following questions:
 ### Journal template
 
 We have outlined a [template](https://github.com/BetaNYC/NYC-CIF/blob/master/lessons/01-02-Journal-Template.md) for you to copy. 
-
-
-## Why?
-  - [The Lean Start up method](http://theleanstartup.com/principles)
-  - Digital journaling & Keeping a record of your experience 
 
 
 ## Related Articles 
