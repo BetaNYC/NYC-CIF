@@ -53,7 +53,7 @@ We want to you to engage in the following questions:
 
 ### Journal template
 
-We have outlined a [template](../blob/master/lessons/01-02-Journal-Template.md) for you to copy. 
+We have outlined a [template](../../blob/master/lessons/01-02-Journal-Template.md) for you to copy. 
 
 
 ## Why?
