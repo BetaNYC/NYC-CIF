@@ -53,18 +53,7 @@ We want to you to engage in the following questions:
 
 ### Journal template
 
-```# year.month.day - last name, first name
-
-## Today’s activities 
-
-## Today’s 
-
-## Blockers (when filling this out, feel free to @mention colleagues)
-
-## New Issues 
- * [ticket name](url)
- * [ticket name](url)
- * [ticket name](url)```
+We have outlined a [template](../blob/master/lessons/01-02-Journal-Template.md) for you to copy. 
 
 
 ## Why?
