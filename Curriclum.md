@@ -1,13 +1,13 @@
 # New York City Civic Innovation Fellows 2015 Curriculum 
 
-## Bootcamp
-Note - All content is located in the ./lessons/ folder. 
+## About this curriculum
+This curriculum is to ramp up a digitally savvy individual and teach them about NYC, NYC’s Community Boards, Empathy Design, NYC’s open data, and tools to process data.
 
-### Classes
+## ==== Bootcamp ==== 
 
 **Week 0 - Things to do before you get here**
 
-* Create accounts
+* Create accounts and things you need to know
   - Google account
   - Github Account 
   - Talk.Beta.NYC
@@ -42,7 +42,7 @@ Note - All content is located in the ./lessons/ folder.
   - What is open government and good government
   - What is Open Source and Civic Hacking
   - Getting started with GitHub
-  - [Agile workflow](http://www.allaboutagile.com/what-is-agile-10-key-principles/)
+  - What is the Agile workflow
 * Inclusive Development 
   - Empathy & Observation
   - Asking the right questions
@@ -53,16 +53,16 @@ Note - All content is located in the ./lessons/ folder.
 
 **Week 4, 12 Oct - 16 Oct**
 
-* Introduction to NYC’s Open Data > NYC 311 > CartoDB
+* Introduction to open data and data story telling
 * Workshop on mapmaking 
   - Types of maps
   - Data bias 
 * Introduction to NYC’s Open Data portal and NYC 311
 * Tools and Data
   - Other NYC.gov mapping tools
-  - [DCP’s Community Planning Resources](http://www.slideshare.net/GaleABrewerMBP/mn-boro-board-presentation2014-1112updated?ref=http://manhattanbp.nyc.gov/html/community-boards/cb-member-resources.shtml)
+  - Community Planning Resources
   - Census Data
-  - Introduction to [CartoDB 101](http://cartodb.com)
+  - Introduction to CartoDB 101
 
 
 
@@ -71,7 +71,7 @@ Note - All content is located in the ./lessons/ folder.
 * Data Dentistry (Scraping > OpenRefine > CartoDB 2.0)
   - Intro to scraping data 
   - Open Refine
-  - CartoDB 102 ([CartoDB Academy](http://academy.cartodb.com))
+  - CartoDB 102
 * Project workday
   - Day dedicated to understanding data, making maps, etc
   - Internal office hours w/ fellows and team

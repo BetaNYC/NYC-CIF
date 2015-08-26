@@ -1,4 +1,4 @@
-# Title of session
+# Data Dentistry
 
 ## Important session notes 
 
@@ -14,3 +14,5 @@
   - Children
 
 ## References go here
+
+- CartoDB 102 ([CartoDB Academy](http://academy.cartodb.com))

@@ -27,3 +27,5 @@ This is like twitter but for task management.
 * Type:
 
 ### References 
+
+  - [Agile workflow](http://www.allaboutagile.com/what-is-agile-10-key-principles/)
