@@ -1,6 +1,8 @@
 # Journal template
 
-```Feel free to use this as a template. This page is broken out into three parts. First, the raw code. Second, how it should look on Talk.Beta.nyc. ```
+Feel free to use this as a template. This page is broken out into three parts. First, the raw code. Second, how it should look on Talk.Beta.nyc.
+
+Here’s a cheatsheet on [GitHub’s Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html).
 
 - - - 
 
