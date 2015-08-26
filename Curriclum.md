@@ -7,8 +7,12 @@ Note - All content is located in the ./lessons/ folder.
 
 **Week 0 - Things to do before you get here**
 
-* Github Account 
 * Create accounts
+  - Google account
+  - Github Account 
+  - Talk.Beta.NYC
+  - Betanyc.slack.com
+  - CartoDB
 
 
 **Week 1, 21 Sept - 25 Sept**
@@ -18,8 +22,6 @@ Note - All content is located in the ./lessons/ folder.
   - Expectations
   - Schedule
  * Intro to project journaling 
-  - [The Lean Start up method](http://theleanstartup.com/principles)
-  - Digital journaling & Keeping a record of your experience 
  * Meet your fellow fellows
  * Introduction to New York City and its Community Boards
  * Introduction to CivicTech / GovTech

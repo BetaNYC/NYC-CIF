@@ -1,34 +1,48 @@
 # Notes About Journaling 
 
+## Why you need to journal  
+
+Journaling is an important step in project management. It creates a time and space to reflect on what issues you have addressed; issues that you could address; issues you _should_ address. Consider this time your daily safe space. 
+
+We are asking you to journal because we can not keep track of everyone of your projects and issues. 
+
+ 
+
 ## Steps to journaling.
 
-#. Find a quite place where you can focus
-#. Protect people’s privacy
-#. Date every entry
-#. Keep (& re-read) what you write 
-#. Write quickly
-#. Focus: start writing & keep writing 
-#. Write for 30 mins. Feel free to time yourself.
-#. White about things that impacted you.
-   - Events
-   - Articles 
-   - Quotes
-   - Ideas
-   - Goals
-   - Impressions
-   - Moments of Joy
-   - Places you visited
-#. Reward yourself
+ #. Find a quite place where you can focus
+ #. Protect people’s privacy
+ #. Date every entry
+ #. Keep (& re-read) what you write 
+ #. Write quickly
+ #. Focus: start writing & keep writing 
+ #. Write for 30 mins. Feel free to time yourself.
+ #. White about things that impacted you.
+    - Events
+    - Articles 
+    - Quotes
+    - Ideas
+    - Goals
+    - Impressions
+    - Moments of Joy
+    - Places you visited
+ #. Reward yourself
 
 ## How to journal for Civic Innovation Fellows
 
-On talk.beta.nyc, we have created a private category for you to [journal](https://talk.beta.nyc/c/CIF/2015-Journals). This group is only accessible to fellows and leadership.
+**On talk.beta.nyc, we have created a private category for you to [journal](https://talk.beta.nyc/c/CIF/2015-Journals). This group is only accessible to fellows and leadership**.
 
-*Note, your colleagues will be able to see these topics and engage with you. If you want to reference someone or get their attention, use the @USERNAME.*
+Your colleagues will be able to see these topics and engage with you. If you want to reference someone or get their attention, use the `@USERNAME`. 
 
-For every day you are working, we expect you to take 30 mins and journal about your experience. 
+Our platform, [discourse](http://www.discourse.org) / [talk.beta.nyc](https://talk.beta.nyc), uses a lightweight markup language. We encourage you to learn [markdown](https://en.wikipedia.org/wiki/Markdown) as it is the “common language” of github.*
 
-While the above is designed to set the tone of journaling, we want to you to engage in the following questions:
+Cheat sheets on Markdown 
+ * [Super quick](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ * [DaringFireball’s holy grail](http://daringfireball.net/projects/markdown/syntax)
+
+For every day you work, we expect you to take 30 mins and journal about your experience. 
+
+We want to you to engage in the following questions:
 
 * What am I learning?
 * What are the greatest risks?
@@ -36,6 +50,26 @@ While the above is designed to set the tone of journaling, we want to you to eng
 * What can I do to improve my communications?
 * What do I enjoy most about this project? 
 * Is there an issue or idea I should let the fellowship leadership know? (If this is an issue you want to deal with privately, please note the need and send a private message.)
+
+### Journal template
+
+```# year.month.day - last name, first name
+
+## Today’s activities 
+
+## Today’s 
+
+## Blockers (when filling this out, feel free to @mention colleagues)
+
+## New Issues 
+ * [ticket name](url)
+ * [ticket name](url)
+ * [ticket name](url)```
+
+
+## Why?
+  - [The Lean Start up method](http://theleanstartup.com/principles)
+  - Digital journaling & Keeping a record of your experience 
 
 
 ## Related Articles 

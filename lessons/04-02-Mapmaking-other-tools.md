@@ -1,29 +1,6 @@
-# GitHub
+# Mapmaking and Other Tools
 
-## About GitHub
 
-## Markdown
-
-## GitHub Issues
-This is like twitter but for task management. 
-
-### Key parts of an issue
-
-* Title
-* Body
-* Label 
-* Milestone
-* Assignee
-* Search
-* Comments 
-* Mentions 
-
-### How to write an issue 
-
-### Issue tags
-
-* Priority:
-* CommunityBoard:
-* Type:
 
 ### References 
+* [When to use maps in data visualizations](http://onlinejournalismblog.com/2015/08/24/when-to-use-maps-in-data-visualisation-a-great-big-guide/)
