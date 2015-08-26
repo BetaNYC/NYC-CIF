@@ -10,14 +10,14 @@ We are asking you to journal because we can not keep track of everyone of your p
 
 ## Steps to journaling.
 
- #. Find a quite place where you can focus
- #. Protect people’s privacy
- #. Date every entry
- #. Keep (& re-read) what you write 
- #. Write quickly
- #. Focus: start writing & keep writing 
- #. Write for 30 mins. Feel free to time yourself.
- #. White about things that impacted you.
+ 1. Find a quite place where you can focus
+ 1. Protect people’s privacy
+ 1. Date every entry
+ 1. Keep (& re-read) what you write 
+ 1. Write quickly
+ 1. Focus: start writing & keep writing 
+ 1. Write for 30 mins. Feel free to time yourself.
+ 1. White about things that impacted you.
     - Events
     - Articles 
     - Quotes
@@ -26,7 +26,7 @@ We are asking you to journal because we can not keep track of everyone of your p
     - Impressions
     - Moments of Joy
     - Places you visited
- #. Reward yourself
+ 1. Reward yourself
 
 ## How to journal for Civic Innovation Fellows
 
@@ -53,7 +53,7 @@ We want to you to engage in the following questions:
 
 ### Journal template
 
-We have outlined a [template](../../blob/master/lessons/01-02-Journal-Template.md) for you to copy. 
+We have outlined a [template](https://github.com/BetaNYC/NYC-CIF/blob/master/lessons/01-02-Journal-Template.md) for you to copy. 
 
 
 ## Why?
