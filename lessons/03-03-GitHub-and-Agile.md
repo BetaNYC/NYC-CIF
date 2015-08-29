@@ -23,12 +23,15 @@ This is like twitter but for task management.
 Service Level Agreement (SLA) - Unless it is a holiday or weekend, all tickets should be reviewed with in 24 hours.
 
 #### Decision Tree
-1. GitHub Issue
-	this is where you create tasks for you or others.
-1. Slack: 
-	This is for real time conversations and chatting.
-1. Discourse / Talk.Beta.NYC
 
+1. GitHub Issue
+- this is where you create tasks for you or others.
+1. Slack: 
+- This is for real time conversations and chatting.
+1. Discourse / Talk.Beta.NYC
+- Journaling 
+- Conversations with mentors
+- Private Messages and messages to your teammates
 
 ### Issue tags
 
