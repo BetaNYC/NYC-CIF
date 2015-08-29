@@ -61,4 +61,3 @@ We have outlined a [template](https://github.com/BetaNYC/NYC-CIF/blob/master/les
 * [Day One App](http://dayoneapp.com/journal-series/what-to-journal/)
 * [How to journal and keep journaling](http://www.theguardian.com/lifeandstyle/2014/mar/22/how-to-start-journal-writing-drawing)
 * [7 Benefits of Keeping a Project Journal](http://www.pmsouth.com/2013/08/03/7-benefits-of-keeping-a-project-journal/)
-
