@@ -14,26 +14,33 @@ This program is designed to support the goals of Mayor de Blasio’s 2015 Open D
 ## Welcome from Manhattan Borough President Gale A. Brewer
 *We need a written statement from MBP Brewer.*
 
-## Schedule
+## Themes
 
 | Month | Objective |
 | ------------- | ------------- |
-| Sep 2015 | Welcome Bootcamp |
-| Oct 2015 | Understanding the Community Board Process |
-| Nov 2015 | Evaluating needs |
-| Dec 2015 | Building a scaffolding |
-| Jan 2016 | Outlining a solution |
-| Feb 2016 | Learning to present and School of Data Summit |
+| Sep & Oct 2015 | Welcome Bootcamp |
+| Nov 2015 | Understanding the Community Board Process |
+| Dec 2015 | Evaluating needs |
+| Jan 2016 | Building a scaffolding |
+| Feb 2016 | Presenting insights and School of Data Summit |
+| Mar 2016 | Outlining a solution |
+| Apr 2016 | Debriefing and preparing for the future |
 
 
 ## Fellows
 
- * Name, School
- * Name, School
- * Name, School
- * Name, School
- * Name, School
- * Name, School
+ * Alvad A Ramcharran
+ * Bruna G Jermann
+ * Ibrahima Barry
+ * Josue Enriquez
+ * Muhammad Aslam
+ * Naraly Garcia
+ * Shalom Joseph
+ * Tammoya Moore
+ * Thierno Bah
+ * Xiaolong Li
+ * Unnamed
+
 
 ## Leadership
 

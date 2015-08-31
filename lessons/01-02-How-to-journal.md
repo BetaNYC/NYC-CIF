@@ -1,4 +1,4 @@
-# Notes About Journaling 
+# How to Journal
 
 ## Why you need to journal  
 
@@ -7,7 +7,7 @@ Journaling is a part of [the Lean Start up method](http://theleanstartup.com/pri
 We are asking you to journal because we can not keep track of everyone of your projects and issues. 
 
 
-## Steps to journaling.
+## Steps to journaling
 
  1. Find a quite place where you can focus
  1. Protect people’s privacy

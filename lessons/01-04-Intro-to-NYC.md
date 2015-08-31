@@ -1,4 +1,4 @@
-# Title of session
+# Introduction to New York City's History
 
 ## Important session notes 
 
