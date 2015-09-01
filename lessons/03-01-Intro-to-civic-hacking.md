@@ -8,9 +8,10 @@ This is a listing of tools and languages you will need to use on regular basis. 
 ### Communication 
 
 #### Email
-**URL**:
-**Purpose**: Communication 
-**Details**: This is for communicating with external contacts and community board members. For internal communication, you should use one of the following tools.
+**Purpose**: General Communication 
+**Details**: In the context of this program, email is for  communicating with external contacts and community board members. For all external communications, we ask you to email 'cif@beta.nyc'. This is an email address the CIF leadership can read and intervene if there is any significant issue. We ask you to cc this email not to be nosey, but to be helpful.
+
+For internal communication, we ask that you don't use email. You should use one of the following tools.
 
 #### Slack
 **URL**:  https://betanyc.slack.com
