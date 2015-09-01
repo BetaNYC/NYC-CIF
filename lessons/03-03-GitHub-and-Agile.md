@@ -1,8 +1,12 @@
 # GitHub
 
 ## About GitHub
+'to be completed'
 
 ## Markdown
+
+As you have learned in the "How to Journal" chapter, Markdown is a super easy to use format for writing text. GitHub supports Markdown in its issues or you can create a formatted "text" file by using the .MD extension. 
+
 
 ## GitHub Issues
 This is like twitter but for task management. 
