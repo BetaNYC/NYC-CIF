@@ -1,5 +1,6 @@
 # How to Journal
 
+
 ## Why you need to journal  
 
 Journaling is a part of [the Lean Start up method](http://theleanstartup.com/principles) and is an important step in project management. It creates a time and space to reflect on what issues you have addressed; issues that you could address; issues you _should_ address. Consider this time your daily safe space. 
@@ -27,6 +28,7 @@ We are asking you to journal because we can not keep track of everyone of your p
    - Places you visited
  1. Reward yourself
 
+
 ## How to journal for Civic Innovation Fellows
 
 **On talk.beta.nyc, we have created a private category for you to [journal](https://talk.beta.nyc/c/CIF/2015-Journals). This group is only accessible to fellows and leadership**.
@@ -50,6 +52,7 @@ For every day you work, we expect you to take 30 mins and journal about your exp
 * What do I enjoy most about this project? 
 * Is there an issue or idea I should let the fellowship leadership know? (If this is an issue you want to deal with privately, please note the need and send a private message.)
 
+
 ### Journal template
 
 We have outlined a [template](https://github.com/BetaNYC/NYC-CIF/blob/master/lessons/01-02-Journal-Template.md) for you to copy. 
@@ -61,3 +64,4 @@ We have outlined a [template](https://github.com/BetaNYC/NYC-CIF/blob/master/les
 * [Day One App](http://dayoneapp.com/journal-series/what-to-journal/)
 * [How to journal and keep journaling](http://www.theguardian.com/lifeandstyle/2014/mar/22/how-to-start-journal-writing-drawing)
 * [7 Benefits of Keeping a Project Journal](http://www.pmsouth.com/2013/08/03/7-benefits-of-keeping-a-project-journal/)
+ 

@@ -11,6 +11,30 @@ As you have learned in the "How to Journal" chapter, Markdown is a super easy to
 ## GitHub Issues
 This is like twitter but for task management. 
 
+Service Level Agreement (SLA) - Unless it is a holiday or weekend, all tickets should be reviewed with in 24 hours.
+
+## How to write an issue 
+
+There are two ways to use github to track your work. First, you will need to log in to github or authorize github to use waffle.io.
+
+* via [github/betanyc/NYC-CIF-2015](https://github.com/BetaNYC/NYC-CIF-2015/issues). GitHub's default ticking system is a universal ticket tracking system.
+
+* [waffle.io](https://waffle.io/BetaNYC/NYC-CIF-2015) is a [kanban](https://en.wikipedia.org/wiki/Kanban_board) version of github issues. Waffle.io fully integrates into GitHub's API and makes github issues super easy to use. We're not kidding, this is the EASEST way to track what you *need to do*, what you *are doing*, and what *is done*!
+
+### Ticket status
+
+By default, github's ticket tracking has two state open and done, i.e. closed.
+
+Waffle.io enables you to set multiple states and then prioritize those tickets. 
+
+For this project, we're going to use the following states.
+
+ - Backlog (this is a natural state of an opened ticket.)
+ - Ready
+ - In Progress
+ - Done (this is a natural state for a closed ticket.)
+
+
 ### Key parts of an issue
 
 * Title
@@ -22,9 +46,6 @@ This is like twitter but for task management.
 * Comments 
 * Mentions 
 
-### How to write an issue 
-
-Service Level Agreement (SLA) - Unless it is a holiday or weekend, all tickets should be reviewed with in 24 hours.
 
 #### Decision Tree
 
@@ -59,11 +80,7 @@ Service Level Agreement (SLA) - Unless it is a holiday or weekend, all tickets s
  - Moderate
  - Hard
 
-* Status: (These are tied into waffle.io's settings)
- - Backlog (this is a natural state of an opened ticket.)
- - Ready
- - In Progress
- - Done (this is a natural state for a closed ticket.)
+
 
 
 ### References 

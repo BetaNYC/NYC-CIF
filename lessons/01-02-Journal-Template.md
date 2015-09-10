@@ -4,7 +4,7 @@ Feel free to use this as a template. This page is broken out into three parts. F
 
 Here’s a cheatsheet on [GitHub’s Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html).
 
-- - - 
+--- 
 
 ```
 # year.month.day - last name, first name

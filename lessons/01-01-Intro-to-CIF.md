@@ -1,15 +1,25 @@
 # Introduction to the NYC Civic Innovation Fellows Program
 
-## Introductions to Leadership
+## Introductions to partispants
 
 * Manhattan Borough President's Office
 * BetaNYC
 * CartoDB
 * Other mentors
+* CUNY Service Corps members
 
-## Introductions of CUNY Service Corps members
+## Goal
+* Bootcamp
+  - Civics lesson
+  - Tools
+  - Adopt a Community Board
+* Field work
+ - Journaling 
+ - Mapmaking and data crunching
+ - Administrative support
+ - "project"
+ - Checkins & monthly meet-ups
 
-* Students 
 
 ## Introduction to the Civic Innovation Fellows program
 
@@ -37,6 +47,12 @@ Over these three phases you will be challenged to profile one district, create m
 ### Field work
 
 Starting week seven, you will be deployed to Community Board District Offices. There, you will work for the Community Board and the District Manager. Your task is to assist in their needs, observe, and journal opportunities for improvement. Should you be called upon to develop data insights, you will work in a team to develop maps and visualizations.
+
+#### Monthly Check ins 
+
+Every Friday, we will host a SCRUM session where you will talk about what you accomplished the in the last week and what you plan to accomplish and what are your blockers.
+
+One Friday a month, we will gather in person or go on a field trip in NYC. 
 
 ### Potential Projects
 * Administrative support
