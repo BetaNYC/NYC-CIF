@@ -27,30 +27,26 @@ This program is designed to support the goals of Mayor de Blasio’s 2015 Open D
 | Apr 2016 | Debriefing and preparing for the future |
 
 
-## Fellows
 
- * Alvad A Ramcharran
- * Bruna G Jermann
- * Ibrahima Barry
- * Josue Enriquez
- * Muhammad Aslam
- * Naraly Garcia
- * Shalom Joseph
- * Tammoya Moore
- * Thierno Bah
- * Xiaolong Li
- * Unnamed
+## Leadership and Instructors
+
+* Manhattan Borough President’s Office
+  * Gale A. Brewer, Borough President
+  * Aldrin Bonilla, Deputy Borough President
+  * Jessica Mates, Chief of Staff
+  * Lucille Songhai, Community Affairs Director
+  * William Colegrove, Senior Technology Advisor, wcolegrove@manhattanbp.nyc.gov
+
+* [BetaNYC](http://beta.nyc)
+  * Noel Hidalgo, Executive Director, noel@beta.nyc
+
+* [CartoDB](http://cartodb.com)
+  * Santiago Giraldo, Resident Civic Hacker
+
+* [The Wise City](http://thewisecity.org)
+  * Daniel Latorre, Founder
 
 
-## Leadership
-
-### Manhattan Borough President’s Office
-
- * William Colegrove, wcolegrove@manhattanbp.nyc.gov
-
-### BetaNYC
-
- * Noel Hidalgo, noel@beta.nyc
 
 ## Key Documents
 
