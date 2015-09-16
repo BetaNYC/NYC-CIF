@@ -68,23 +68,18 @@
 ---
 
 ## Payday!
+* do not work more than 24 hours every two weeks
 * not more than 288 hours for the whole program
-* not more than 24 hours every two weeks
 * time sheets are due every two weeks on Monday's before noon
+* if this program and our work is interfering with your school work, let us know.
+* if you are having hardships at school, let us know.
+* if you think we can help you in any way shape or form, let us know!
 
 ---
 
 ## How will all of this work?
 
 ---
-
-### Program’s Curriculum
-
-* Primary Curriclum
-* Tickets and Issues
-
----
-
 
 ### Bootcamp Break Down
 
@@ -109,11 +104,22 @@ Starting week seven, you will be deployed to Community Board District Offices. T
 
 Every Friday, we will host a SCRUM session where you will talk about what you accomplished the in the last week and what you plan to accomplish and what are your blockers.
 
-One Friday a month, we will gather in person or go on a field trip in NYC.
+---
+
+#### Monthly Field trips
+
+One Friday a month, we will gather in person or go on a field trip in the NYC area.
+---
+
+#### Communication
+
+We will be using a number of tools for [asynchronous communication](https://en.wikipedia.org/wiki/Asynchronous_communication). While working for the Civic Innovation Fellowship, you are expected to use talk.beta.nyc, github, and slack as your primary forums. 98% of the issues, problems, questions you will have should be addressed in the open; in a collaborative manner.
+
+You are expected to help each other out.
 
 ---
 
-### Potential Projects
+### Potential Field Projects
 
 * Administrative support
  - Data entry
@@ -133,9 +139,9 @@ One Friday a month, we will gather in person or go on a field trip in NYC.
 
 ### School of Data Conference
 
-Two day long confrence dedicated to civic technology and civic hacking.
+Two day long conference dedicated to civic technology and civic hacking.
 
-**At this confrence, you will present your work.**
+**At this conference, you will present your work.**
 
 What work?
 
@@ -154,5 +160,5 @@ Open question
 
 ## Time to Journal
 
-* [How to Jounral ](https://github.com/BetaNYC/NYC-CIF/blob/master/Lessons/01-02-How-to-journal.md)
-* [Jounral template](https://github.com/BetaNYC/NYC-CIF/blob/master/Lessons/01-02-Journal-Template.md)
+* [How to Journal ](https://github.com/BetaNYC/NYC-CIF/blob/master/Lessons/01-02-How-to-journal.md)
+* [Journal template](https://github.com/BetaNYC/NYC-CIF/blob/master/Lessons/01-02-Journal-Template.md)
