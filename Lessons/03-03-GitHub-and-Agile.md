@@ -21,6 +21,12 @@ There are two ways to use github to track your work. First, you will need to log
 
 * [waffle.io](https://waffle.io/BetaNYC/NYC-CIF-2015) is a [kanban](https://en.wikipedia.org/wiki/Kanban_board) version of github issues. Waffle.io fully integrates into GitHub's API and makes github issues super easy to use. We're not kidding, this is the EASEST way to track what you *need to do*, what you *are doing*, and what *is done*!
 
+### Tips on working within GitHub
+
+* Create task lists in [GitHub flavored markdown](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments)
+* [15 rules for communicating via GitHub](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
+* [Getting started with github](https://github.com/guardianproject/open-mobile-developers-guide/blob/master/en/1-open-source-foundations/getting-started-with-github.md)
+
 ### Ticket status
 
 By default, github's ticket tracking has two state open and done, i.e. closed.
