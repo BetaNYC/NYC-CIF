@@ -100,5 +100,5 @@ Ultimately, the program should achieve a fully sustainable agile cycle, done in 
 
 ## Key Documents
 
-* Fellowship Curriculum
-* Fellowship Code of Conduct
+* [Fellowship Curriculum](https://github.com/BetaNYC/NYC-CIF/tree/master/Lessons)
+* [Fellowship Code of Conduct](https://github.com/BetaNYC/NYC-CIF/blob/master/Code-of-Conduct.md)
