@@ -54,7 +54,9 @@ This program is designed to support the goals of Mayor de Blasio’s 2015 Open D
 
 #### Partnering Organizations
 
-**Data & Society** – a research institute in New York City that is focused on social, cultural, and ethical issues arising from data-centric technological development. Noel Hidalgo is a 2015 Data & Society fellow and is acting as the NYC Civic Innovation Fellows fiscal sponsor.
+**Fund for the City of New York** – The Fund for the City of New York was established by the Ford Foundation in 1968 with the mandate to improve the quality of life for all New Yorkers. For over three decades, in partnership with government agencies, nonprofit institutions and foundations, the Fund has developed and helped to implement innovations in policy, programs, practices and technology in order to advance the functioning of government and nonprofit organizations in New York City and beyond.
+
+**Data & Society** – a research institute in New York City that is focused on social, cultural, and ethical issues arising from data-centric technological development. Noel Hidalgo is a 2015 Data & Society fellow.
 
 **Manhattan Community Boards** – created through the 1963 City charter, these hyper-local Community Boards are the most direct form of self-governance and civic engagement for NYC communities. They oversee land use, budgeting concerns, and local services.
 
