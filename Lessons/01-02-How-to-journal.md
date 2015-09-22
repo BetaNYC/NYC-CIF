@@ -55,7 +55,7 @@ For every day you work, we expect you to take 30 mins and journal about your exp
 
 ### Journal template
 
-We have outlined a [template](https://github.com/BetaNYC/NYC-CIF/blob/master/lessons/01-02-Journal-Template.md) for you to copy.
+We have outlined a [template](https://github.com/BetaNYC/NYC-CIF/blob/master/Lessons/01-02-Journal-Template.md) for you to copy.
 
 
 ## Related Articles
