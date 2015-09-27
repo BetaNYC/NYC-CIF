@@ -6,6 +6,8 @@ As part of getting to know a Community Board, we want you to get to know their d
 
 Over the next week, we want you to search the internet and find answers to these questions. **This assignment is due at close of business on Friday, 2 October**. 
 
+Title the document with 'Community Board 00 - Last Name, First Name'. 00 should be the Community Board number.
+
 Once you have completed your initial research, we will review these answers and may add more questions. Because these will be living documents, we suggest you keep this in a google doc and share the document with 'cif@beta.nyc'.
 
 ## Social Media / External outlets
@@ -92,3 +94,17 @@ Once you have completed your initial research, we will review these answers and 
 
  * Does the Community Board offer an Email newsletter sign up?
  * Does the Community Board website promote any email discussion lists like google groups or yahoo groups?
+
+---
+
+## Committees 
+
+We need you to make a list of each committee & task force. For example, [CB4 does a great job](http://www.nyc.gov/html/mancb4/html/committees/wpe.shtml) at listing the committees, their members, and the functions of the committee. Not all community boards are that well thought out. 
+
+Your task is to compile a list of the Committees & Task Forces.
+
+| Name | Type | URL |
+| --- | --- | --- |
+| Example: Committee | Committee | http://www.xyz.com |
+| Example: Task Force | Task Force | http://www.xyz.com |
+
