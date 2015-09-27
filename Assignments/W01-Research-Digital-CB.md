@@ -101,7 +101,7 @@ Once you have completed your initial research, we will review these answers and 
 
 We need you to make a list of each committee & task force. For example, [CB4 does a great job](http://www.nyc.gov/html/mancb4/html/committees/wpe.shtml) at listing the committees, their members, and the functions of the committee. Not all community boards are that well thought out. 
 
-Your task is to compile a list of the Committees & Task Forces.
+Your task is to compile a list of the Committees & Task Forces. If you can, compile this list as a table within the same google doc you've been working on.
 
 | Name | Type | URL |
 | --- | --- | --- |
