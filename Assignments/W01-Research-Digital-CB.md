@@ -107,4 +107,10 @@ Your task is to compile a list of the Committees & Task Forces. If you can, comp
 | --- | --- | --- |
 | Example: Committee | Committee | http://www.xyz.com |
 | Example: Task Force | Task Force | http://www.xyz.com |
+---
+
+## Putting it all Together
+
+OK, now that everyone has done a first draft of their Community Board's digital profile, it's time to put it all together. Working with one another, figure out the best way to combine all of your insights into a single document. I want to see what you come up with for a presentation, but the final product should represent your overall insights about every Community Board, using the above template as a guide. 
+One other aspect I want to see: For every one of your Boards, based on what you have found online, what would you say are the 3 most important issues facing the Board. Where do they seem to spend the most time/energy, based on what's online?
 
