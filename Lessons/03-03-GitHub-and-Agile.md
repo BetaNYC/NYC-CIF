@@ -24,7 +24,7 @@ There are two ways to use github to track your work. First, you will need to log
 
 * via [github/betanyc/NYC-CIF-2015](https://github.com/BetaNYC/NYC-CIF-2015/issues). GitHub's default ticking system is a universal ticket tracking system.
 
-* [waffle.io](https://waffle.io/BetaNYC/NYC-CIF-2015) is a [kanban](https://en.wikipedia.org/wiki/Kanban_board) version of github issues. Waffle.io fully integrates into GitHub's API and makes github issues super easy to use. We're not kidding, this is the EASEST way to track what you *need to do*, what you *are doing*, and what *is done*!
+* [waffle.io](https://waffle.io/BetaNYC/NYC-CIF-2015) is a [kanban](https://en.wikipedia.org/wiki/Kanban_board) version of github issues. Waffle.io fully integrates into GitHub's API and makes github issues super easy to use. We're not kidding, this is the EASIEST way to track what you *need to do*, what you *are doing*, and what *is done*!
 
 ### Tips on working within GitHub
 
