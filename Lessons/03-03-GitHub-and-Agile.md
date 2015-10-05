@@ -1,17 +1,22 @@
-# GitHub
+# GitHub Issues
 
 ## About GitHub
-'to be completed'
+GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works. ([URL](https://guides.github.com/introduction/flow/))
+
+### About GitHub Issues
+
+([Link to GitHub Issues Help](https://help.github.com/categories/managing-projects/))
+
+This is like twitter but for task management. 
+
+Service Level Agreement (SLA) - Unless it is a holiday or weekend, all tickets should be reviewed with in 24 hours.
+
+For the duration of CIF 2015, we encourage you to use Waffle.io. For this year, we ask you use [this repo](https://waffle.io/BetaNYC/NYC-CIF-2015). 
 
 ## Markdown
 
 As you have learned in the "How to Journal" chapter, Markdown is a super easy to use format for writing text. GitHub supports Markdown in its issues or you can create a formatted "text" file by using the .MD extension. 
 
-
-## GitHub Issues
-This is like twitter but for task management. 
-
-Service Level Agreement (SLA) - Unless it is a holiday or weekend, all tickets should be reviewed with in 24 hours.
 
 ## How to write an issue 
 
@@ -92,3 +97,4 @@ For this project, we're going to use the following states.
 ### References 
 
   - [Agile workflow](http://www.allaboutagile.com/what-is-agile-10-key-principles/)
+  - [Kanban Board](https://en.wikipedia.org/wiki/Kanban_board)

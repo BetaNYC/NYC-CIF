@@ -39,11 +39,11 @@ Every day you work, you should journal for one hour. This was covered in the fir
 #### GitHub
  * **URL**: https://github.com/BetaNYC/NYC-CIF-2015/issues
  * **Purpose**: Issue tracking, Code Repository, and Community Documentation
- * **Details**: GitHub is a crazy beast. Its framework is how modern technology companies are developing 
+ * **Details**: GitHub is a crazy beast. Its framework is how modern technology companies are developing their software. We're only going to be using the "issues" part of GitHub. Details on how we will be using GitHub are located in [03-03-GitHub-and-Agile](https://github.com/BetaNYC/NYC-CIF/blob/master/Lessons/03-03-GitHub-and-Agile.md).
 
  - - - -
 
-### Maps and Data
+### Docs, Data, and Maps
 
 #### Google Docs
  * **Purpose**: Collaborative document creation, presentations, and light-weight data manipulation.
@@ -57,19 +57,15 @@ Every day you work, you should journal for one hour. This was covered in the fir
 #### CKAN
  * **URL**: http://data.beta.nyc 
  * **Purpose**: This is NYC’s community data portal. 
- * **Details**:
 
 #### CartoDB
  * **URL**: http://cartodb.com 
  * **Purpose**: Map making and story telling.
- * **Details**:
 
 #### OpenRefine
- * **URL**:
+ * **URL**: http://openrefine.org
  * **Purpose**: Data manipulation 
- * **Details**:
 
 #### Google BigTable
  * **URL**:  cloud.google.com/bigtable‎
  * **Purpose**: Data manipulation 
- * **Details**:
