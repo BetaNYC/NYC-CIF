@@ -12,8 +12,8 @@ OK, now that everyone has done a first draft of their Community Board's digital 
 
 On Friday, 9 October, you will have to do a group presentation and give us two slides.
 
- - 1. What are they doing now,
- - 2. What can be improved / 3 suggestions
+1. You need to point out (up to three things) what a Community Board is doing well. If you can't point out three well things, point out what they are doing ok.
+2. Point out three things that a Community Board can do to improve its digital footprint.
 
 Share this google docs and the email address cif@beta.nyc
 
