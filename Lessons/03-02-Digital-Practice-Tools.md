@@ -36,8 +36,9 @@ Every day you work, you should journal for one hour. This was covered in the fir
 
 ### Issues, Code and Documentation 
 
-#### GitHub
- * **URL**: https://github.com/BetaNYC/NYC-CIF-2015/issues
+#### GitHub Issues
+ * **Waffle URL**: https://waffle.io/BetaNYC/NYC-CIF-2015
+ * **GitHub URL**: https://github.com/BetaNYC/NYC-CIF-2015/issues
  * **Purpose**: Issue tracking, Code Repository, and Community Documentation
  * **Details**: GitHub is a crazy beast. Its framework is how modern technology companies are developing their software. We're only going to be using the "issues" part of GitHub. Details on how we will be using GitHub are located in [03-03-GitHub-and-Agile](https://github.com/BetaNYC/NYC-CIF/blob/master/Lessons/03-03-GitHub-and-Agile.md).
 
