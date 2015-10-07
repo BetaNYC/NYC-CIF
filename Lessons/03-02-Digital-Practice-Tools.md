@@ -18,7 +18,7 @@ For internal communication, we ask that you don't use email. You should use one 
 
  * **URL**:  https://betanyc.slack.com
  * **Purpose**: Realtime communication 
- * **Details**: Slack is a realtime group communication tool. You can use it via a website, a desktop app, and a mobile app. You are expected to use it for realtime communications. When you are "on-duty" you are expected to have slack open and be available. 
+ * **Details**: Slack is a realtime group communication tool. You can use it via a website, a desktop app, and a mobile app. You are expected to use it for realtime communications. When you are "on-duty" you are expected to have slack open and be available. You can download Slack apps from [various app stores](https://slack.com/apps). When your team name is "betanyc." If you don't have account on visit http://slack.beta.nyc to create a slack/betanyc invite.
 
 
 #### Discourse, aka talk.beta.nyc
