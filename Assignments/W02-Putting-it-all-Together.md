@@ -14,6 +14,4 @@ On Friday, 9 October, you will have to do a group presentation and give us two s
 
 1. You need to point out (up to three things) what a Community Board is doing well. If you can't point out three well things, point out what they are doing ok.
 2. Point out three things that a Community Board can do to improve its digital footprint.
-
-Share this google docs and the email address cif@beta.nyc
-
+3. Share this google slides with the email address 'cif@beta.nyc' or you can upload it to this [google drive folder](https://drive.google.com/a/betanyc.us/folderview?id=0B98QOZfGax93WWhBNU1zSHI5NTg&usp=sharing).
