@@ -47,7 +47,7 @@ Build a map using NYC 311 data that tells a story, and discuss the potential bia
 * [NYC Data Portal](http://nyc.gov/data)
 * NYC 311 Data - [link](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9?)
 * BetaNYC Community Board Boundaries - ([link](http://data.beta.nyc/dataset/nyc-community-districts))
-* Listing of NYC 311 Complaint Types from the NYC 311 Map ([link to google doc](https://docs.google.com/document/d/1EhQm2PUcMF-tC8JLH-O52ILU-oj9RMHzfwfoFxgnT7M/edit?usp=sharing))
+* Listing of NYC 311 Complaint Types from the NYC 311 Map ([link to google doc](https://docs.google.com/document/d/1EhQm2PUcMF-tC8JLH-O52ILU-oj9RMHzfwfoFxgnT7M/edit?usp=sharing)) or you can access this via [google sheet](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=0).
 
 
 **Types of thematic maps**
