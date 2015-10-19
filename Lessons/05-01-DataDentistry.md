@@ -1,3 +1,5 @@
+> This is from [@namessanti's presentation to the Manhattan Borough President's Office](https://gist.github.com/namessanti/988bed052bd10b054d06)
+
 ## CartoDB Workshop: Mapping for Manhattan
 
 About Santiago:
