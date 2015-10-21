@@ -57,6 +57,8 @@ Keep in mind that you can also **drag and drop** datasets onto your dashboard at
 
 Let's begin by bringing in the **rat sightings 311 data for August 2015** by **command-clicking (or right clicking)** on [THIS LINK](https://data.cityofnewyork.us/api/views/g9n7-nmb7/rows.csv?accessType=DOWNLOAD) and selecting to "Copy Link Address".
 
+> This data is being imported from [this view](https://data.cityofnewyork.us/Social-Services/Rat-Aug-2015/g9n7-nmb7). 
+
 * Using a URL allows you to skip bringing data onto your computer as well as allowing users with certain plans to create **automatically syncing and real-time** maps
 
 ### The CartoDB Editor
