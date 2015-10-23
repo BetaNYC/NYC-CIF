@@ -53,7 +53,9 @@
 |Week 3|Oct 5 - Oct 9|Introduction to tools|CIF tools and technology|Building accounts and Q/A on tools|Introduction to inclusive development & design empathy (Daniel Latorre-The Wise City)|Workshop on inclusive development & design empathy (Daniel Latorre-The Wise City)|
 |Week 4|Oct 12 - Oct 16|Intro to open data & bootcamp research project|Introduction to NYC's Open Data and its tools and district competition goals.|Workshop on NYC's Open Data and its tools.|Anatomy of a digital campaigns (Santiago Giraldo-CartoDB)|Paper prototyping a digital campaign in a community board|
 |Week 5|Oct 19 - Oct 23|Getting deeper with data|"Data Dentistry - introduction to data scraping \> OpenRefine \> CartoDB 2.0 (Santiago Giraldo-CartoDB)|Workshop on data. (Santiago Giraldo-CartoDB)|Collective work and office hours.|Collective work and office hours.|
-|Week 6|Oct 26 - Oct 30|Project presentation |Workshop on data storytelling|Workshop on Public Speaking|Demo day of maps and Community Board profiles.|Q/A session on the rest of the fellowship.|
+|Week 6|Oct 26 - Oct 30|Work on data |Work out of Manhattan Borough President's Office | |Sexual harassment training / data storytelling workshop | |
+|Week 7|Nov 2 - Nov 6|Work on data |Work out of Manhattan Borough President's Office | |TBD - Fellows visit Community Boards | |
+|Week 8|Nov 9 - Nov 13|Final week |Workshop on Public Speaking | |Demo day of maps and Community Board profiles.|Q/A session on the rest of the fellowship.|
 
 
 ---
