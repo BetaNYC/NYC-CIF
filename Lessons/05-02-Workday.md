@@ -15,7 +15,7 @@ To complete this task, create a google doc, answer this questions, and share it 
 **NYC 311 Service Requests over seasons**
 
  - Outline 5 assumptions about NYC 311 data. Try to make one assumption per season. Write them down.
- - Make a map comparing seasons over the following years (2012, 2013, 2014, 2015). Use traditional definitions of [meteorological seasons](http://www.timeanddate.com/calendar/aboutseasons.html).
+ - Make a graph comparing seasons over the following years (2012, 2013, 2014, 2015). Use traditional definitions of [meteorological seasons](http://www.timeanddate.com/calendar/aboutseasons.html).
   - Fall 2012, 2013, 2014, 2015
   - Winter 2012 (include 2011 data), 2013, 2014
   - Spring 2012, 2013, 2014, 2015
