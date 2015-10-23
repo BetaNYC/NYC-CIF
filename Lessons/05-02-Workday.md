@@ -41,7 +41,7 @@ To complete this task, create a google doc, answer this questions, and share it 
 
  - From the data universe you have created above, what are your Community District street condition descriptors?
  - What are the top five street condition issues per year?
- - Create a rolling 60 day map of street condition 311 service requests.
+ - Create a "realtime" 60 day map of street conditions.
  - Looking at seasonal street conditions, what can you tell? Is there a particular street condition that appears at a particular time of the year? If so, what is it?
 
 **Noise**
