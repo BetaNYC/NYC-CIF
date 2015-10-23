@@ -7,7 +7,7 @@ Your task is to make graphs and maps of the following data. This is due on the w
 To complete this task, create a google doc, answer this questions, and share it with 'cif@beta.nyc'.
 
 ### Referance Data
- * [NYC 311 Complain Types - "Socrata Roll up"](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=0]
+ * [NYC 311 Complain Types - "Socrata Roll up"](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=0)
 
 
 ## Data to explore
