@@ -21,8 +21,8 @@ To complete this task, create a google doc, answer this questions, and share it 
  - Have your assumptions changed? If so, how? Write them down.
 
  - Diving into winter 2014 & 2013 data.
-  -- What are the differences between the two seasons?
-  -- What might be 2015's top 10 issues?
+   -- What are the differences between the two seasons?
+   -- What might be 2015's top 10 issues?
 
 **Heat and Hot Water Service Requests**
 
