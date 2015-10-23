@@ -7,6 +7,7 @@ Your task is to make graphs and maps of the following data. This is due on the w
 To complete this task, create a google doc, answer this questions, and share it with 'cif@beta.nyc'.
 
 ### Reference Data
+
  * [NYC 311 Complain Types - "Socrata Roll up"](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=0)
 
 
@@ -56,7 +57,7 @@ To complete this task, create a google doc, answer this questions, and share it 
 
 **Illegal parking / blocked driveway**
 
- - Graph the various noise complaints per month (2012, 2013, 2014, 2015) per description.
- - Which months have the most noise service requests? Why might this be the case?
- - Where are Community District noise hot spots?
+ - Graph the various illegal parking & blocked driveway complaints per month (2012, 2013, 2014, 2015) per description.
+ - Which months have the most illegal parking & blocked driveway service requests? Why might this be the case?
+ - Where are Community District illegal parking & blocked driveway hot spots?
  - Is there consistency year over year? If so, document them in a google doc with Google street view photos.
