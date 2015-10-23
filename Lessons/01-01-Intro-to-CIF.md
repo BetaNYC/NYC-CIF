@@ -23,7 +23,7 @@
 
 ## Schedule of work
 
-* Bootcamp (first 6 weeks)
+* Bootcamp (first 8 weeks)
   - Civics lesson
   - Tools
   - Adopt a Community Board
