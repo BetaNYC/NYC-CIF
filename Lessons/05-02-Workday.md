@@ -13,10 +13,10 @@ To complete this task, create a google doc, answer this questions, and share it 
 
  - Outline 5 assumptions about NYC 311 data. Try to make one assumption per season.
  - Make a map comparing seasons over the following years (2012, 2013, 2014, 2015). Use traditional definitions of [meteorological seasons](http://www.timeanddate.com/calendar/aboutseasons.html).
- -- Fall 2012, 2013, 2014, 2015
- -- Winter 2012 (include 2011 data), 2013, 2014
- -- Spring 2012, 2013, 2014, 2015
- -- Summer 2012, 2013, 2014, 2015
+  - Fall 2012, 2013, 2014, 2015
+  - Winter 2012 (include 2011 data), 2013, 2014
+  - Spring 2012, 2013, 2014, 2015
+  - Summer 2012, 2013, 2014, 2015
  - What are the top 10 complaints per season. Make a table that lists seasons, year, service request, and count. Put this into a google sheets
  - Have your assumptions changed? If so, how?
 
