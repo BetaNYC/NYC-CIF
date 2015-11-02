@@ -33,9 +33,10 @@ Tips on completing the assignment:
  - What are the top 10 complaints per season. Make a table that lists seasons, year, service request, and count. Put this into a google sheets
  - Have your assumptions changed? If so, how? Write them down.
 
- - Diving into winter 2014 & 2013 data.
+ - Diving into winter 2014 & 2015 data.
    -- What are the differences between the two seasons?
-   -- What might be 2015's top 10 issues?
+   -- What might be 2016's top 10 issues?
+ -- Note on this: Winter 2015 is the months of Nov 2014-Feb 2015. You should be comparing the 2015 season to the previous year (Nov 13-Feb 14), and then making predictions for this upcoming Winter (2016). 
 
 **Heat and Hot Water Service Requests**
 
