@@ -42,7 +42,7 @@ Tips on completing the assignment:
 
 ### **Heat and Hot Water Service Requests**
 
- - Chart "Heat and Hot Water" service requests per month (2012, 2013, 2014, 2015) per issue description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
+ - Make a pivot table of "Heat and Hot Water" service requests per month (2012, 2013, 2014, 2015) per issue description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
  - What are the months have the most "Heat and Hot Water" service requests.
  - Why might these months have more service request?
  - Over the years, are any of these service complaints, repeat callers? If so, what are the address? Go to google street view and take a photo of these locations. Search google news and see if there are any articles about these address.
@@ -57,7 +57,7 @@ Tips on completing the assignment:
 
 ### **Rodent Service Requests**
 
- - Chart rodent requests per month (2012, 2013, 2014, 2015) per issue description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
+ - Make a pivot table of rodent requests per month (2012, 2013, 2014, 2015) per issue description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
  - Which months have the most rodent service requests? Why might this be the case?
  - Collectively, is there a part of the community district that has an overwhelming rodent problem? If so, does google street view show you anything?
  - Looking at all service requests, is there an area you would target to increase 311 service requests?
@@ -70,6 +70,7 @@ Tips on completing the assignment:
 
 ### **Street condition / pothole**
 
+ - Make a pivot table of the various street condition complaints per month (2012, 2013, 2014, 2015) per description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
  - What are your Community District street condition descriptors?
  - What are the top five street condition issues per year?
  - Create a "realtime" 60 day map of street conditions. (Note, you will have to make this map via CartoDB.)
@@ -85,7 +86,7 @@ Tips on completing the assignment:
 
 ### **Noise**
 
- - Chart the various noise complaints per month (2012, 2013, 2014, 2015) per description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
+ - Make a pivot table of the various noise complaints per month (2012, 2013, 2014, 2015) per description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
  - In this chart, outline the top 10 cells. 
  - Which quarters have the most noise service requests? Why might this be the case?
  - Where are Community District noise hot spots? (Note, you will have to map out these per description.
@@ -98,7 +99,7 @@ Tips on completing the assignment:
 
 ### **Illegal parking / blocked driveway**
 
- - Chart the various illegal parking & blocked driveway complaints per month (2012, 2013, 2014, 2015) per description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
+ - Make a pivot table of the various illegal parking & blocked driveway complaints per month (2012, 2013, 2014, 2015) per description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
  - Which months have the most illegal parking & blocked driveway service requests? Why might this be the case?
  - Where are Community District illegal parking & blocked driveway hot spots? You will have to use CartoDB to complete this task.
  - Is there consistency year over year? If so, document them in a google doc with Google street view photos.
