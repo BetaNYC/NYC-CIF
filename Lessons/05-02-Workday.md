@@ -45,7 +45,7 @@ Tips on completing the assignment:
  - Make a pivot table of "Heat and Hot Water" service requests per month (2012, 2013, 2014, 2015) per issue description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
  - What are the months have the most "Heat and Hot Water" service requests.
  - Why might these months have more service request?
- - Over the years, are any of these service complaints, repeat callers? If so, what are the address? Go to google street view and take a photo of these locations. Search google news and see if there are any articles about these address.
+ - Over the years, are any of these service complaints, repeat callers? If so, what are the address? Go to google street view and take a photo of these locations. Search google news and see if there are any articles about these address. (Note, you will have to map out these per descriptions via CartoDB.)
  
 **Note!**
  - On Socrata, you will have to make a few filters and combine them in Excel. Please use [NYC 311 Complaint Types - "Socrata Roll up as a google doc"](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=0) to ensure proper spelling. 
@@ -59,7 +59,7 @@ Tips on completing the assignment:
 
  - Make a pivot table of rodent requests per month (2012, 2013, 2014, 2015) per issue description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
  - Which months have the most rodent service requests? Why might this be the case?
- - Collectively, is there a part of the community district that has an overwhelming rodent problem? If so, does google street view show you anything?
+ - Collectively, is there a part of the community district that has an overwhelming rodent problem? If so, does google street view show you anything? (Note, you will have to map out these per descriptions via CartoDB.)
  - Looking at all service requests, is there an area you would target to increase 311 service requests?
 
 **Note!**
@@ -67,6 +67,7 @@ Tips on completing the assignment:
  - For this task, you will have to create two separate filters.
 	 - First, Complaint Type contains "rodent"
 	 - Second, Descriptor contains "rodent"
+	 - Third, Descriptor contains "vermin"
 
 ### **Street condition / pothole**
 
@@ -79,17 +80,20 @@ Tips on completing the assignment:
 **Note!**
  - On Socrata, you will have to make a few filters and combine them in Excel. Please use [NYC 311 Complaint Types - "Socrata Roll up as a google doc"](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=0) to ensure proper spelling. 
  - For this task, you will have to create several filters.
-	 - Descriptor contains "Pot hole"
-   - Descriptor Type contains "hummock"
-   - Descriptor Type contains "bad condition"
-   - Descriptor Type contains "rough, pitted or cracked roads"
+  - Descriptor contains "general bad condition"
+  - Descriptor contains "Pot hole"
+  - Descriptor contains "hummock"
+  - Descriptor contains "bad condition"
+  - Descriptor contains "rough, pitted or cracked roads"
+  - Descriptor contains "failed street repair"
+  - Descriptor contains "cave-in"
 
 ### **Noise**
 
  - Make a pivot table of the various noise complaints per month (2012, 2013, 2014, 2015) per description. See (img/exersize3-piviot-table.jpg) for how to set up this pivot table.
  - In this chart, outline the top 10 cells. 
  - Which quarters have the most noise service requests? Why might this be the case?
- - Where are Community District noise hot spots? (Note, you will have to map out these per description.
+ - Where are Community District noise hot spots? (Note, you will have to map out these per descriptions via CartoDB.)
  - Is there consistency year over year? If so, document them in a google doc with Google street view photos.
 
 **Note!**
@@ -105,10 +109,43 @@ Tips on completing the assignment:
  - Is there consistency year over year? If so, document them in a google doc with Google street view photos.
 
 **Note!**
- - On Socrata, you will have to make a few filters and combine them in Excel. Please use [NYC 311 Complaint Types - "Socrata Roll up as a google doc"](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=0) to ensure proper spelling. 
+ - On Socrata, you will have to make a few filters and combine them in Excel. Please use [NYC 311 Complaint Types - "Socrata Roll up as a google doc"](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=1896934307) to ensure proper spelling. 
  - For this task, you will have to create one filter.
 	 - Descriptor contains "blocked hydrant"
 	 - Descriptor contains "blocked sidewalk"
 	 - Descriptor contains "double parked"
 	 - Descriptor contains "commercial overnight"
 	 - Complaint Type contains "blocked driveway"
+
+
+## Notes on exporting data from Socrata to CartoDb
+
+**Building a data universe** 
+ * open up socrata
+ * open up 311 data
+ * create a universe of the data
+ * first select your community board
+ * select “created date” “is after” 01/01/2012
+ * then add “complaint type” “contains” Noise (or whichever type you want)
+ * Important! This is where you want to export data for cartoDB. Go to “export” and download the CSV to upload to CartoDB. Once you have saved the raw data, you can move on to the roll up portion.
+
+**Roll up within Socrata**
+* now go to sort and roll-up
+* uncheck sort
+* check roll-up
+* group by “created date” based on “month”
+* add two more group by’s
+ - make the first “complaint type” 
+ - make the second “descriptor”
+ - then change roll-up “unique key” and function “count”
+* This should organize data in a table with columns for "complaint type", "descriptor", and a count of unique ids. Each row should be a month.
+* export using CSV for excel 
+
+**Pivot Table in Excel / Google Docs**
+* open downloaded file in Excel
+* select the data universe 
+* create a pivot table 
+* the pivot table builder
+- in columns should be “created date”
+- in row labels should be “complaint type” and “descriptor”
+- in values should be “unique key”
