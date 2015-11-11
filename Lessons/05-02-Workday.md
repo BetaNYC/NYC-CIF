@@ -33,9 +33,12 @@ Tips on completing the assignment:
  - What are the top 10 complaints per season. Make a table that lists seasons, year, service request, and count. Put this into a google sheets
  - Have your assumptions changed? If so, how? Write them down.
 
- - Diving into winter 2014 & 2013 data.
-  - What are the differences between the two seasons?
-  - What might be 2015's top 10 service request issues?
+
+ - Diving into winter 2014 & 2015 data.
+   -- What are the differences between the two seasons?
+   -- What might be 2016's top 10 issues?
+	 -- **Note on this: Winter 2015 is the months of Nov 2014-Feb 2015. You should be comparing the 2015 season to the previous year (Nov 13-Feb 14), and then making predictions for this upcoming Winter (2016).**
+
 
 ### **Heat and Hot Water Service Requests**
 
@@ -99,3 +102,12 @@ Tips on completing the assignment:
  - Which months have the most illegal parking & blocked driveway service requests? Why might this be the case?
  - Where are Community District illegal parking & blocked driveway hot spots? You will have to use CartoDB to complete this task.
  - Is there consistency year over year? If so, document them in a google doc with Google street view photos.
+
+**Note!**
+ - On Socrata, you will have to make a few filters and combine them in Excel. Please use [NYC 311 Complaint Types - "Socrata Roll up as a google doc"](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=0) to ensure proper spelling. 
+ - For this task, you will have to create one filter.
+	 - Descriptor contains "blocked hydrant"
+	 - Descriptor contains "blocked sidewalk"
+	 - Descriptor contains "double parked"
+	 - Descriptor contains "commercial overnight"
+	 - Complaint Type contains "blocked driveway"
