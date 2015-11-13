@@ -6,19 +6,7 @@ For the next few weeks, you will be working on understanding NYC 311 data. This 
 
 To complete this task, create a google doc, answer this questions, and share it with 'cif@beta.nyc'.
 
-Tips on completing the assignment:
-
-1. To complete the seasonal research, you will need to create a filter, select your community district, and then build a date filter between a set of dates. You will have to make a filter per season. Remember to save each filter.
-
-2. To include all events between two days, lets say 1 June to 30 Aug, you will need to select 1 June, 12:00 AM till 30 Aug, 12:00 AM. 
-
-3. When making a pivot table in Excel, you'll want to select "complaint type" and "descriptor" as rows. Then, you'll want to "count" the "unique keys." This will give you a count of every incident type.
-
-4. **You will need to use the following documents to search for relevant Complaint Type and Descriptors.**
-
- * [NYC 311 Complaint Types - "Socrata Roll up as a google doc"](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=0)
- * [NYC 311 Complaint Types and descriptors](https://data.cityofnewyork.us/Social-Services/NYC-311-Complaint-Type-Descriptor-Count/h9an-u3fn) this is a live view and might need to be exported.
-
+Tips located at the bottom of this email.
 
 ## Data to explore
 
@@ -117,7 +105,22 @@ Tips on completing the assignment:
 	 - Descriptor contains "commercial overnight"
 	 - Complaint Type contains "blocked driveway"
 
+---
+Tips on completing the assignment:
 
+1. To complete the seasonal research, you will need to create a filter, select your community district, and then build a date filter between a set of dates. You will have to make a filter per season. Remember to save each filter.
+
+2. To include all events between two days, lets say 1 June to 30 Aug, you will need to select 1 June, 12:00 AM till 30 Aug, 12:00 AM. 
+
+3. When making a pivot table in Excel, you'll want to select "complaint type" and "descriptor" as rows. Then, you'll want to "count" the "unique keys." This will give you a count of every incident type.
+
+4. **You will need to use the following documents to search for relevant Complaint Type and Descriptors.**
+
+ * [NYC 311 Complaint Types - "Socrata Roll up as a google doc"](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=0)
+ * [NYC 311 Complaint Types and descriptors](https://data.cityofnewyork.us/Social-Services/NYC-311-Complaint-Type-Descriptor-Count/h9an-u3fn) this is a live view and might need to be exported.
+
+
+---
 ## Notes on exporting data from Socrata to CartoDb
 
 **Building a data universe** 
