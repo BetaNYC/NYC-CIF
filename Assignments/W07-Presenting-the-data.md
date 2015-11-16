@@ -3,6 +3,11 @@
 ## Goal
 Welcome to the home stretch! Your goal is take all of the work you have done and distill it into a presentation to Community Boards.
 
+### Locating the Executive Committee Meeting
+First, you will need to make a list of your Board's exectuive committee meeting. You will find this on the Board's website.
+
+### Creating a presentation
+
 For this assignment, you will need to produce the following:
 
  - Presentation Slides
