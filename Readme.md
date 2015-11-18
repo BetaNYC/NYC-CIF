@@ -20,6 +20,9 @@ As part of this program, we will educate you while demystifying government techn
 
 This program is designed to support the goals of Mayor de Blasio’s 2015 Open Data Plan, namely the mission of making “[Open Data for All](http://www1.nyc.gov/office-of-the-mayor/news/487-15/de-blasio-administration-releases-open-data-all-city-s-new-open-data-plan).” Working with NYC Community Boards and related community organizations, we will bring open data decision making to neighborhood government, while bringing in new perspectives on how to improve data publication and presentation from government.
 
+## Statement from Borough Preseident Brewer
+
+"Once [this program] fully implemented, [New York City's Civic Innovation Fellows] will help Community Boards make better, data-driven decisions about local development, quality-of-life issues, and budgeting."
 
 ## Themes
 
