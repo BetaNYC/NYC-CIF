@@ -22,7 +22,7 @@ This program is designed to support the goals of Mayor de Blasio’s 2015 Open D
 
 ## Statement from Borough Preseident Brewer
 
-"Once [this program] fully implemented, [New York City's Civic Innovation Fellows] will help Community Boards make better, data-driven decisions about local development, quality-of-life issues, and budgeting."
+"Once this program is fully implemented, New York City's Civic Innovation Fellows will help Community Boards make better, data-driven decisions about local development, quality-of-life issues, and budgeting."
 
 ## Themes
 
