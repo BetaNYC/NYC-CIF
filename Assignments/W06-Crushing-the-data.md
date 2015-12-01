@@ -71,7 +71,7 @@ Tips located at the bottom of this email.
  - On Socrata, you will have to make a few filters and combine them in Excel. Please use [NYC 311 Complaint Types - "Socrata Roll up as a google doc"](https://docs.google.com/spreadsheets/d/1Vvwlyy0mmALpG1JH04wZHes6pNzxiG_-WT4BtyfD5m0/edit#gid=0) to ensure proper spelling. 
  - For this task, you will have to create several filters.
   - Descriptor contains "general bad condition"
-  - Descriptor contains "Pot hole"
+  - Descriptor contains "Pothole"
   - Descriptor contains "hummock"
   - Descriptor contains "bad condition"
   - Descriptor contains "rough, pitted or cracked roads"
