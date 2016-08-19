@@ -20,7 +20,7 @@ As part of this program, we will educate you while demystifying government techn
 
 This program is designed to support the goals of Mayor de Blasio’s 2015 Open Data Plan, namely the mission of making “[Open Data for All](http://www1.nyc.gov/office-of-the-mayor/news/487-15/de-blasio-administration-releases-open-data-all-city-s-new-open-data-plan).” Working with NYC Community Boards and related community organizations, we will bring open data decision making to neighborhood government, while bringing in new perspectives on how to improve data publication and presentation from government.
 
-## Statement from Borough Preseident Brewer
+## Statement from Borough President Brewer
 
 "Once this program is fully implemented, New York City's Civic Innovation Fellows will help Community Boards make better, data-driven decisions about local development, quality-of-life issues, and budgeting."
 
@@ -28,14 +28,14 @@ This program is designed to support the goals of Mayor de Blasio’s 2015 Open D
 
 | Month | Objective |
 | ------------- | ------------- |
-| Sep & Oct 2015 | Welcome Bootcamp |
-| Nov 2015 | Understanding the Community Board Process |
-| Dec 2015 | Evaluating needs |
-| Jan 2016 | Building a scaffolding |
-| Feb 2016 | Presenting insights and School of Data Summit |
-| Mar 2016 | Outlining a solution |
-| Apr 2016 | Debriefing and preparing for the future |
-| May 2016 | End of fellowship report |
+| Sep & Oct | Welcome Bootcamp Introduction |
+| Nov | Bootcamp Research Project |
+| Dec | Bootcamp Research Presentation |
+| Jan | CUNY Winter Break |
+| Feb | Field Work Assignments & Deployment |
+| Mar | Field Work |
+| Apr | Debriefing and Report Writing |
+| May | End of fellowship report |
 
 
 
@@ -46,10 +46,10 @@ This program is designed to support the goals of Mayor de Blasio’s 2015 Open D
   * Aldrin Bonilla, Deputy Borough President
   * Jessica Mates, Chief of Staff
   * Lucille Songhai, Community Affairs Director
-  * William Colegrove, Senior Technology Advisor, wcolegrove@manhattanbp.nyc.gov _(Fellowship Co-Director)_
+  * Lucian Reynolds, Urban Planner, Land Use Division, LReynolds@manhattanbp.nyc.gov _(Fellowship Coordinator)_
 
 **[BetaNYC](http://beta.nyc)**
-  * Noel Hidalgo, Executive Director, noel@beta.nyc _(Fellowship Co-Director)_
+  * Noel Hidalgo, Executive Director, noel@beta.nyc _(Fellowship Director)_
 
 #### Partnering Organizations
 
@@ -61,11 +61,10 @@ This program is designed to support the goals of Mayor de Blasio’s 2015 Open D
 
 **City University of New York (CUNY) Service Corp** – creates opportunities for students to work on projects that improve the city’s short and long-term civic, economic and environmental sustainability. CUNY SC coordinates CIF students and funds their internship work up to 12 hours a week for up to six months.
 
-**CartoDB** – a cloud-based mapping, analysis and visualization engine that lets users build spatial applications for both mobile and the web. The platform is already being used by major news organizations, research institutions, non-profits, and geospatial application developers throughout the world. CartoDB is donating its software and staff to help train and educate CUNY SC and Community Board Members.
+**Carto** – a cloud-based mapping, analysis and visualization engine that lets users build spatial applications for both mobile and the web. The platform is already being used by major news organizations, research institutions, non-profits, and geospatial application developers throughout the world. CartoDB is donating its software and staff to help train and educate CUNY SC and Community Board Members.
 
 **The Wise City** – a socially responsible civic engagement, service design, and product strategy practice. The Wise City is donating staff time to educate CUNY SC students on human-centered design.
 
-**SeeClickFix** – a communications platform for citizens to report non-emergency issues, and governments to track, manage, and reply—ultimately making communities better through transparency, collaboration, and cooperation. SeeClickFix is donating its software and staff to help train and educate both CUNY SC and Community Board Members.
 
 ## Program Background 
 

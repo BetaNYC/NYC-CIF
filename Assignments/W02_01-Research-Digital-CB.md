@@ -1,38 +1,16 @@
-# Week 01 - Research a Community Board digital presence 
+# Week 01_02 - Researching a Community Board's digital presence 
 
 ## About this assignment
 
 As part of getting to know a Community Board, we want you to get to know their digital footprint. Though this process, you should find answers to 40% - 60% of these questions. We will be impressed if you can find answers to all questions. 
 
-Over the next week, we want you to search the internet and find answers to these questions. **This assignment is due at close of business on Friday, 2 October**. 
+Over the next week, we want you to search the internet and find answers to these questions.
 
 Title the document with 'Community Board 00 - Last Name, First Name'. 00 should be the Community Board number.
 
 Once you have completed your initial research, we will review these answers and may add more questions. Because these will be living documents, we suggest you keep this in a google doc and share the document with 'cif@beta.nyc'.
 
-## Social Media / External outlets
 
-### Twitter
-
-* Twitter URL?
-* Do they use hashtags?
-* What do they share on Twitter?
-
-### Facebook
-
-* Facebook Page URL?
-* What content to do they share?
-
-* Facebook Group URL?
-* What content do they share?
-
-### Photos
-
-* Instagram?
-* Flickr / Photo sharing?
-* Other Social Media
-
----
 
 ## Community Board Website
 
@@ -53,6 +31,7 @@ Once you have completed your initial research, we will review these answers and 
 
  * Listing of News / Updates?
  * Is the news / updates current? (i.e. is there an update within the last 30 days?)
+ * Summarize what type of content do they share.
 
 ### Calendars
 
@@ -66,34 +45,40 @@ Once you have completed your initial research, we will review these answers and 
  * Can you find a collection of archives / resolutions?
  * Can you find a listing of Community Board projects?
  * Do they have a community resources guide on their website?
+ * Summarize what type of events they share.
 
 ### Videos
 
  * Is there a video archive of meetings?
  * Can you tell if they "live stream" meetings?
  * Do they share their videos via YouTube or Vimeo? If so, what is the URL? Do they allow comments?
+ * Summarize what type of videos do they share.
 
 ### Search
 
  * Is there a search page or bar?
  * If so, does it work?
+ * Summarize what type of content searched for and how did it work.
 
 ### Maps
 
  * On their website, do they share maps?
  * If so, what type of maps?
  * How old are the maps?
+ * Summarize what types of maps they have on their website.
 
 ### NYC 311 and Data
 
  * Does the Community Board website promote NYC 311?
  * Do they promote any other data tools?
  - (If so, which ones?)
+* Summarize what types of data they post on their website and how do they share this.
 
 ### Newsletters and Email Lists
 
  * Does the Community Board offer an Email newsletter sign up?
  * Does the Community Board website promote any email discussion lists like google groups or yahoo groups?
+ * You will need to subscribe to the Community Board mailing list and note all of the emails they send to you. 
 
 ---
 
@@ -109,8 +94,53 @@ Your task is to compile a list of the Committees & Task Forces. If you can, comp
 | Example: Task Force | Task Force | http://www.xyz.com |
 ---
 
+
+
+## Social Media / External outlets
+
+### Twitter
+
+* Twitter URL?
+* Do they use hashtags?
+* What type of content do they share on Twitter?
+* How many people have they retweeted?
+  -- In the past month?
+  -- In the past three months?
+  -- In the past six months?
+* How many people have they messaged?
+  -- In the past month?
+  -- In the past three months?
+  -- In the past six months?
+
+### Facebook
+
+* Facebook Page URL?
+* Is the page rated?
+* How many people "like" their page?
+* Do they have a link to their twitter?
+* Do they have their office hours posted?
+* Do they have their address listed?
+* Do they have their phone number listed?
+* Do they have their website listed?
+* What content to do they share?
+* Do they post photos?
+* Do they tag photos?
+* Do they respond to comments?
+* Do they allow comments?
+
+* Facebook Group URL?
+* What content do they share?
+
+### Photos or Video
+
+* Is there YouTube account? If so, what is the link and what types of video do they share?
+* Is there an instagram account? If so, what is the link and what types of video do they share?
+* Is there a flickr account? If so, what is the link and what types of video do they share?
+* Other Social Media?
+
+---
+
 ## Putting it all Together
 
-OK, now that everyone has done a first draft of their Community Board's digital profile, it's time to put it all together. Working with one another, figure out the best way to combine all of your insights into a single document. I want to see what you come up with for a presentation, but the final product should represent your overall insights about every Community Board, using the above template as a guide. 
 One other aspect I want to see: For every one of your Boards, based on what you have found online, what would you say are the 3 most important issues facing the Board. Where do they seem to spend the most time/energy, based on what's online?
 

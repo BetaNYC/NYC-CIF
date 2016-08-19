@@ -1,4 +1,4 @@
-# Week 2 - Putting it all Together
+# Week X - Putting it all Together
 
 OK, now that everyone has done a first draft of their Community Board's digital profile, it's time to put it all together. Working with one another, figure out the best way to combine all of your insights into a single document. We want to see what you come up with for a presentation, but the final product should represent your overall insights about every Community Board, using the previous template as a guide. 
 

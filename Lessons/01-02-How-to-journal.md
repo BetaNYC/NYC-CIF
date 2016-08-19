@@ -31,7 +31,7 @@ From a manager's perspective, we need you to journal because we can not keep tra
 
 ## How to journal for Civic Innovation Fellows
 
-**On talk.beta.nyc, we have created a private category for you to [journal](https://talk.beta.nyc/c/CIF/2015-Journals). This group is only accessible to fellows and leadership**.
+**On talk.beta.nyc, we have created a private category for you to [journal](https://talk.beta.nyc/c/CIF/2016-Journals). This group is only accessible to fellows and leadership**.
 
 Your colleagues will be able to see these topics and engage with you. If you want to reference someone or get their attention, use the `@USERNAME`.
 

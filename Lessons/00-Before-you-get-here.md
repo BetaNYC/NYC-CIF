@@ -10,16 +10,15 @@ You need to do the following things before you arrive:
 
 **==== Required Accounts ===**
 
-You will need to create these accounts. If you have any questions, please email Will and Noel at cif@beta.nyc.
+You will need to create these accounts. If you have any questions, please email the leadership team at cif@beta.nyc.
 
- * Talk - https://talk.beta.nyc
+ * Talk - https://talk.beta.nyc/signup 
  * Slack - http://slack.beta.nyc
  * A Google Account - Some of you might have gmail/google accounts provide to you by your school. If you do not have a gmail or google account, create one at https://accounts.google.com/SignUp
- * Carto - this is a special student account - https://cartodb.com/signup?plan=academy
+ * Carto - this is a special student account - https://carto.com/signup?plan=academy
  * GitHub
   - If you have a .edu account, sign up here - https://education.github.com/pack
   - If you don't have an .edu account, join here - https://github.com/join
-
  * NYC's Open Data Portal, aka Socrata - http://nyc.gov/data
 
 **=== Optional ===**
