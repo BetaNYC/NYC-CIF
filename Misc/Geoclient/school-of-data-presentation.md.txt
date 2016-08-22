@@ -1,0 +1,28 @@
+# Geoclient - Why Bother?
+
+__Event:__ NYC School of Data
+__Date:__ March 13th, 2016
+__Title:__ Geoclient - Why Bother?
+__Author:__ Matthew Lipper
+
+All presentation content, including this file, are accessible from this 
+[Google Drive folder](https://drive.google.com/folderview?id=0BxiOV9-YZw5nNkE1TjgxcnNMeUU&usp=sharing).
+
+## Examples
+### Media Types
+  * [JSON response](https://api.cityofnewyork.us/geoclient/v1/address.json?houseNumber=240&street=West%20137th%20Street&borough=Manhattan&app_id=e69ded2b&app_key=a4ee048b05a4a7990cb74c5ae225c7c7)
+  * [XML response](https://api.cityofnewyork.us/geoclient/v1/address.xml?houseNumber=240&street=West%20137th%20Street&borough=Manhattan&app_id=e69ded2b&app_key=a4ee048b05a4a7990cb74c5ae225c7c7)
+
+### 3 West 18th Street, Manhattan
+  * [Address](https://api.cityofnewyork.us/geoclient/v1/address.json?houseNumber=3&street=West%2018th%20Street&borough=Manhattan&app_id=e69ded2b&app_key=a4ee048b05a4a7990cb74c5ae225c7c7)
+  * [BBL](https://api.cityofnewyork.us/geoclient/v1/bbl.json?block=820&lot=36&borough=manhattan&app_id=e69ded2b&app_key=a4ee048b05a4a7990cb74c5ae225c7c7)
+  * [BIN](https://api.cityofnewyork.us/geoclient/v1/bin.json?bin=1015450&app_id=e69ded2b&app_key=a4ee048b05a4a7990cb74c5ae225c7c7)
+  * [Blockface](https://api.cityofnewyork.us/geoclient/v1/blockface.json?onStreet=West%2018th%20Street&crossStreetOne=6th%20Avenue&crossStreetTwo=5th%20Avenue&borough=Manhattan&app_id=e69ded2b&app_key=a4ee048b05a4a7990cb74c5ae225c7c7)
+  * [Intersection](https://api.cityofnewyork.us/geoclient/v1/intersection.json?crossStreetOne=West%2018th%20Street&crossStreetTwo=5th%20Avenue&borough=Manhattan&app_id=e69ded2b&app_key=a4ee048b05a4a7990cb74c5ae225c7c7)
+
+
+### Single-field Search
+  * [Single-field search](https://api.cityofnewyork.us/geoclient/v1/search.json?input=3%20West%2018th%20Street&borough=Manhattan&app_id=e69ded2b&app_key=a4ee048b05a4a7990cb74c5ae225c7c7)
+  * [Single-field search with tokens](https://api.cityofnewyork.us/geoclient/v1/search.json?input=3%20West%2018th%20Street&borough=Manhattan&app_id=e69ded2b&app_key=a4ee048b05a4a7990cb74c5ae225c7c7&returnTokens=true) 
+  * [Single-field search with rejects and tokens](https://api.cityofnewyork.us/geoclient/v1/search.json?input=3%20West%2018th%20Street&borough=Manhattan&app_id=e69ded2b&app_key=a4ee048b05a4a7990cb74c5ae225c7c7&returnTokens=true&returnRejections=true)
+
