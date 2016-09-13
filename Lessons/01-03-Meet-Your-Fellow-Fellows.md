@@ -51,9 +51,10 @@ Draw a map from where you started this morning and how you got here. Outline the
 1. Do everything you can to be at an event / meeting EARLY! 
 2. Don't make assumptions by guessing someone's gender, ethnicity, economic status, or happiness. 
 2. Never say "I don't care",
-3. "You're wrong" or "You can't do it" or "Good luck",
+3. "You're wrong" or "You can't do it",
 5. "This should be easy" - Never over promise anything.
 6. "I told you so" or "As I just said before..."
+7. Think about how saying like "Good luck" could be dismissive.
 
 
 ### Things you should say
@@ -61,6 +62,7 @@ Draw a map from where you started this morning and how you got here. Outline the
 1. "I'm sorry"
 2. "I don't know; Let me try to find out"
 3. Impress them with kindness 
+4. Be yourself, everyone else is taken.
 
 References:
 * [Lifehacker](http://www.lifehack.org/articles/communication/7-things-you-should-never-say-someone.html)
